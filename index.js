@@ -1,9 +1,13 @@
 // Write your code here
-const num1 = 31;
-const num2 = 2;
-const num3 = 85;
-const num4 = 9;
-let multiply = num1 * num2; 
-let random = Math.floor(Math.random() * 10) + 1;
-let mod = num3 % num4;
-let max = Math.max(1, 5, 10, 15, 20);
+var num1 = 31;
+var num2 = 2;
+var num3 = 12;
+var num4 = 8;
+
+var multiply = num1 * num2
+
+var random = Math.floor(Math.random() * 10) + 1;
+
+var mod = num3 % num4;
+
+var max = Math.max(1, 2, 5, 8, 10, 12, 15, 20);
